@@ -13,7 +13,9 @@ import { Badge, IconButton, TextField } from '@mui/material';
 import { Button } from '@mui/material';
 import Header from '../Home/navbar.jsx';
 
-const serverUrl = "http://localhost:8000";
+
+
+const serverUrl = process.env.REACT_APP_BACKEND_URL;
 var connections = {};
 const peerConfigConnections = {
     'iceServers': [
