@@ -389,6 +389,7 @@ export default function VideoMeetComp() {
                     <div className="container">
                         <h2>Enter Your Name</h2>
                         <p>Please provide a display name before joining the meeting. This name will be visible to other participants.</p>
+                        <p>Share this link with others to let them join your meeting.</p>
                         <TextField className="username-input" id="outlined-basic" label="Username" value={username} onChange={e => setUsername(e.target.value)} variant="outlined" />
                         <Button className="connect-btn" variant="contained" onClick={connect}>Connect</Button>
 
