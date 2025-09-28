@@ -11,8 +11,13 @@ A modern **video conferencing and chat application** built with **React** and **
 If login/meeting creation fails initially, visit the backend directly to wake it:  
 👉 [https://nodelink-backend.onrender.com/](https://nodelink-backend.onrender.com/) 
 
-### 🎥 Demo Video
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1AgJS6VI40_9kM8KyYWlwVwCLqk9gh16L/preview" title="NodeLink Demo Video" frameborder="0" allowfullscreen></iframe>
+## 📸 Screenshots
+<p align="center">
+  <img src="https://i.postimg.cc/D2MLymNm/NL1.png" alt="Landing Page" width="40%"/>
+  <img src="https://i.postimg.cc/p26zXySd/NL2.png" alt="Home Page" width="40%"/>
+  <img src="https://i.postimg.cc/hS5TPhYt/NL3.png" alt="History Page" width="40%"/>
+  <img src="https://i.postimg.cc/CFQkLd2w/NL4.png" alt="Joining Page" width="40%"/>
+</p>
 
 ---
 
@@ -77,7 +82,7 @@ If login/meeting creation fails initially, visit the backend directly to wake it
 
 - **`VideoMeetComp`** – Core video conferencing component, manages WebRTC connections & media streams  
 - **`AuthContext`** – Centralized authentication & user management  
-- **Landing Page** – Onboarding with guest access & registration flows  
+- **`LandingPage`** – Onboarding with guest access & registration flows  
 
 ---
 
