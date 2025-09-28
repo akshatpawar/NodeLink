@@ -13,10 +13,10 @@ If login/meeting creation fails initially, visit the backend directly to wake it
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://i.postimg.cc/vgHYBs4P/NL1.png" alt="Landing Page" width="40%"/>
-  <img src="https://i.postimg.cc/tZCqTjsD/NL2.png" alt="Home Page" width="40%"/>
-  <img src="https://i.postimg.cc/YGqr9HvR/NL3.png" alt="History Page" width="40%"/>
-  <img src="https://i.postimg.cc/HcsYxgr0/NL4.png" alt="Joining Page" width="40%"/>
+  <img src="https://i.postimg.cc/B62XmZ4G/NL1.png" alt="Landing Page" width="40%"/>
+  <img src="https://i.postimg.cc/ZR6CwY4k/NL2.png" alt="Home Page" width="40%"/>
+  <img src="https://i.postimg.cc/bJ1smY87/NL3.png" alt="History Page" width="40%"/>
+  <img src="https://i.postimg.cc/0Q7bV5x4/NL4.png" alt="Joining Page" width="40%"/>
 </p>
 
 ---
